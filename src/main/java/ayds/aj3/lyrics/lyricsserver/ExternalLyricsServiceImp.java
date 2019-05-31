@@ -1,9 +1,9 @@
-package com.example.external.lyricsserver;
+package ayds.aj3.lyrics.lyricsserver;
 
-import com.example.external.ExternalLyricsService;
+import ayds.aj3.lyrics.ExternalLyricsService;
 
-import com.example.external.Lyrics;
-import com.example.external.LyricsSong;
+import ayds.aj3.lyrics.Lyrics;
+import ayds.aj3.lyrics.LyricsSong;
 import retrofit2.Response;
 
 class ExternalLyricsServiceImp implements ExternalLyricsService {

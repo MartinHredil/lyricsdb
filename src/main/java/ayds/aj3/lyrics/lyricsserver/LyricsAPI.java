@@ -1,4 +1,4 @@
-package com.example.external.lyricsserver;
+package ayds.aj3.lyrics.lyricsserver;
 
 
 import retrofit2.Call;

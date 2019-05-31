@@ -1,6 +1,6 @@
-package com.example.external.lyricsserver;
+package ayds.aj3.lyrics.lyricsserver;
 
-import com.example.external.ExternalLyricsService;
+import ayds.aj3.lyrics.ExternalLyricsService;
 import retrofit2.Retrofit;
 import retrofit2.converter.scalars.ScalarsConverterFactory;
 

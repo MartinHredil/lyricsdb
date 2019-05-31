@@ -1,6 +1,6 @@
-package com.example.external.lyricsserver;
+package ayds.aj3.lyrics.lyricsserver;
 
-import com.example.external.Lyrics;
+import ayds.aj3.lyrics.Lyrics;
 
 public interface ServerToLyricsResolver {
 

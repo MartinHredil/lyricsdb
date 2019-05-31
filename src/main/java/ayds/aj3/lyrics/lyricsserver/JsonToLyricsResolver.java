@@ -1,6 +1,6 @@
-package com.example.external.lyricsserver;
+package ayds.aj3.lyrics.lyricsserver;
 
-import com.example.external.Lyrics;
+import ayds.aj3.lyrics.Lyrics;
 import com.google.gson.Gson;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;

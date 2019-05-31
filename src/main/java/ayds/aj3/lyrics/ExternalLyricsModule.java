@@ -1,6 +1,6 @@
-package com.example.external;
+package ayds.aj3.lyrics;
 
-import com.example.external.lyricsserver.ExternalLyricsServiceModule;
+import ayds.aj3.lyrics.lyricsserver.ExternalLyricsServiceModule;
 
 public class ExternalLyricsModule {
 
